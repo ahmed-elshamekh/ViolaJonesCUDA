@@ -1,0 +1,6 @@
+*.o
+vj
+*.swp
+tags
+images/**
+output.pgm
